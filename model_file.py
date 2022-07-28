@@ -9,3 +9,5 @@ def model1():
 
 def model2():
     return "model 2 algorithm"
+
+print("the second mocel algorithm is used final for the production")
